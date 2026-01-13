@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo-ecommerce",
+  "version": "1.0.0",
+  "description": "E2E test automation demo using Playwright + TypeScript + Page Object Model",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Nakamura30/playwright-demo-ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Nakamura30/playwright-demo-ecommerce/issues"
+  },
+  "homepage": "https://github.com/M-Nakamura30/playwright-demo-ecommerce#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.6"
+  }
+}
