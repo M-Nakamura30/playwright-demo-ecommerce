@@ -18,12 +18,11 @@ Production-ready E2E test suite demonstrating modern test automation practices.
 - GitHub Actions - CI/CD
 
 ## 🧪 Test Coverage
-
 | Feature | Test Cases | Status |
 |---------|------------|--------|
-| Login | - | 🔄 In Progress |
-| Cart | - | 📋 Planned |
-| Checkout | - | 📋 Planned |
+| Login | 3 | ✅ Complete |
+| Cart | 1 | ✅ Complete |
+| Checkout | 2 | ✅ Complete |
 
 ## 📁 Project Structure
 ```
